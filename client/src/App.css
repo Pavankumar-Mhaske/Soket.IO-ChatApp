@@ -47,3 +47,16 @@ input {
 button {
   margin-left: 1em;
 }
+
+p {
+  font-size: 1.2em;
+  color: #888;
+}
+span {
+  font-size: 0.8em;
+  padding: 5px 15px;
+  color: #fff;
+  /* font-weight: 500; */
+  font-weight : bold;
+  background: #f46d0c;
+}
