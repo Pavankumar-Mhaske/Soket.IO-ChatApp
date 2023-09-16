@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nanoid": "^5.0.1",
+    "soket.io": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
