@@ -12,7 +12,13 @@ const httpServer = createServer();
 // this 2 lines in single line
 const httpServer = require("http").createServer(app);
 
-const io = require("socket.io")(httpServer);
+const io = require("socket.io")(httpServer, {
+  cors: {},
+  cors: {
+    origin: "*",
+    credentials: true,
+  },
+});
 
 io.on("connection", (socket) => {
   console.log("What is socket", socket);
