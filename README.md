@@ -46,7 +46,13 @@ Contributions are always welcome!
 
 ![Screenshot (764)](https://github.com/Pavankumar-Mhaske/Soket.IO-ChatApp/assets/104865937/2e400821-187b-4d2f-9042-19d8035666c6)
 
+<p align="center">
+  <b> 🌴🎄🌳🌲 ⭐💖 - Chating with all(like Group Chat ) - 💖⭐ 🌲🌳🎄🌴 </b>
+</p>
+
 ![Screenshot (765)](https://github.com/Pavankumar-Mhaske/Soket.IO-ChatApp/assets/104865937/7343ffeb-ce3e-4d77-9428-308f908796f2)
+
+
 
 ![Screenshot (767)](https://github.com/Pavankumar-Mhaske/Soket.IO-ChatApp/assets/104865937/b7999873-aa42-4ad0-9159-84b1859c0c27)
 
