@@ -5,3 +5,5 @@
 # 🚀 About project 💖
 
 # 🕔 ⚙ Socket.IO ChatApp ✌🏻 ⭐
+
+### Welcome to Socket.IO ChatApp - Project for learning how the Socket Technology works.
