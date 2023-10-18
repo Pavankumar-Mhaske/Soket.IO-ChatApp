@@ -20,3 +20,6 @@ Contributions are always welcome!
 
 [React](https://legacy.reactjs.org/docs/getting-started.html)
 
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+
