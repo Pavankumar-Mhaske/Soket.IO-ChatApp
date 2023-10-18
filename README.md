@@ -43,3 +43,7 @@ This project is used by the following companies:
 ## Support
 
 For support, Give stars to the project... https://github.com/Pavankumar-Mhaske?tab=repositories
+
+## Feedback
+
+If you have any feedback, please reach out to us at mhaskepavankumar@gmial.com
