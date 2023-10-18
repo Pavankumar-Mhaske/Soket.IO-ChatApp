@@ -32,5 +32,10 @@ Contributions are always welcome!
 
 [React-Redux-Toolkit](https://redux-toolkit.js.org/)
 
-
 ## 📸 Screenshots 📷🎥
+
+## Used By
+
+This project is used by the following companies:
+
+- Multiverse
