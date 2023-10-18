@@ -18,3 +18,5 @@ Contributions are always welcome!
 
 [Socket.IO](https://socket.io/)
 
+[React](https://legacy.reactjs.org/docs/getting-started.html)
+
