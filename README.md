@@ -54,3 +54,5 @@ If you have any feedback, please reach out to us at mhaskepavankumar@gmial.com
 ## 🚀 About Me
 
 "I am a tech-savvy software engineer entering the industry with a strong foundation in technology and a specialization in full-stack development..."
+
+## 🔗 Links
