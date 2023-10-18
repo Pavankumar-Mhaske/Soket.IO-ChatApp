@@ -34,6 +34,10 @@ Contributions are always welcome!
 
 ## 📸 Screenshots 📷🎥
 
+<p align="center">
+  <b> 🌴🎄🌳🌲 ⭐💖 - ChatApp Initial look - 💖⭐ 🌲🌳🎄🌴 </b>
+</p>
+
 ![Screenshot (766)](https://github.com/Pavankumar-Mhaske/Soket.IO-ChatApp/assets/104865937/e996e8f8-5e02-485d-9b62-8b22c0700ef6)
 
 ![Screenshot (764)](https://github.com/Pavankumar-Mhaske/Soket.IO-ChatApp/assets/104865937/2e400821-187b-4d2f-9042-19d8035666c6)
