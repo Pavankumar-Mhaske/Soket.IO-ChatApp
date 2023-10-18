@@ -39,3 +39,7 @@ Contributions are always welcome!
 This project is used by the following companies:
 
 - Multiverse
+
+## Support
+
+For support, Give stars to the project... https://github.com/Pavankumar-Mhaske?tab=repositories
