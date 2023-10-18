@@ -52,7 +52,9 @@ Contributions are always welcome!
 
 ![Screenshot (765)](https://github.com/Pavankumar-Mhaske/Soket.IO-ChatApp/assets/104865937/7343ffeb-ce3e-4d77-9428-308f908796f2)
 
-
+<p align="center">
+  <b> 🌴🎄🌳🌲 ⭐💖 - Handshake (server-side-function) - 💖⭐ 🌲🌳🎄🌴 </b>
+</p>
 
 ![Screenshot (767)](https://github.com/Pavankumar-Mhaske/Soket.IO-ChatApp/assets/104865937/b7999873-aa42-4ad0-9159-84b1859c0c27)
 
